@@ -52,11 +52,9 @@ Designer-Slider/
 1. Clone the repository:
    ```bash
    git clone https://github.com/gayatri192005/Designer-Slider.git
-````
 
 2. Open `index.html` (rename `vibeverse.html` if needed) in your browser.
 3. Modify and integrate it into your own project.
-
 ---
 
 ## 🧠 Author
