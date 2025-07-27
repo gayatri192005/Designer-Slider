@@ -26,6 +26,7 @@ A sleek and modern **login/signup UI component** with a sliding transition effec
 
 - **HTML5**
 - **CSS3**
+- **REACT-NATIVE**
 - **Font Awesome 6.4**
 - JavaScript (for interaction and slider effect)
 
