@@ -8,7 +8,8 @@ A sleek and modern **login/signup UI component** with a sliding transition effec
 
 ## 📸 Preview
 
-![Designer-Slider Screenshot](link-to-screenshot.png) <!-- Replace with your own screenshot URL -->
+<img width="1388" height="794" alt="image" src="https://github.com/user-attachments/assets/c158feee-646f-4d17-b9b2-97d18b38edff" />
+ <!-- Replace with your own screenshot URL -->
 
 ---
 
