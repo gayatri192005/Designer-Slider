@@ -1,0 +1,45 @@
+🎨 Prompt: Designer Slider with Interactive UI & Smooth Animations
+Build a modern, elegant Designer Slider component for showcasing creative works such as portfolios, fashion collections, UI/UX designs, or branding visuals. The slider should feature a clean and minimal interface, enriched with smooth transition animations, hover interactions, and toggle controls for layout or theme switching (e.g., grid/slider view, dark/light mode).
+
+The component should support:
+
+Image & Video Slides (with titles, short descriptions, and CTA buttons)
+
+Autoplay with pause-on-hover
+
+Manual navigation controls (arrows, swipe/drag, keyboard nav)
+
+Slide counter indicator
+
+Responsive design for mobile, tablet, and desktop
+
+Framer Motion or GSAP-based animations for slide-in/out, zoom effects, fade transitions
+
+Hover effects like parallax tilt, glow, or overlay blur
+
+Theme toggle button (light/dark mode with smooth animation)
+
+Optional: Vertical scroll mode or 3D cube-style slider
+
+It should allow:
+
+Customizable slide content (designers can change image, title, link, etc.)
+
+Dynamic data loading (from JSON or API)
+
+Support for galleries with filtering (e.g., UX, Branding, 3D, Illustrations)
+
+Download / Preview options for each slide if needed
+
+Keyboard-accessibility & screen-reader friendly design
+
+Tech stack suggestions:
+
+Frontend: React.js + Tailwind CSS
+
+Animation: Framer Motion / GSAP
+
+Data: JSON / API / CMS (optional)
+
+Hosting: Vercel or Netlify
+
